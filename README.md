@@ -1,14 +1,14 @@
 # Windows-and-Linux-KeyLogger
 A very simple and easy way to use the windows and linux keylogger 
 
-#LINUX 
-#installation
+# LINUX 
+# installation
 The following instructions will install Keylogger using pip3 .
   pip3 install -r requirements.txt
-#or
+# or
   pip3 install pyxhook
   
- #How to run it
+ # How to run it
  It will begin logging your keystrokes when you run the command nohup python3 keylogger.py: 'No hangup' is the definition of the word nohup. Nohup does not return to the shell command prompt after running a command in the background when used with the '&' character.
  
  
@@ -22,7 +22,7 @@ or
 
 kill {PID} for example kill 12529
 
-#uses
+# uses
 Some uses of a keylogger are:
 
     Business Administration: Monitor what employees are doing.
